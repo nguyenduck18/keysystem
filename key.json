@@ -1,10 +1,10 @@
 {
-  "keys": {
-    "ABC123": {
-      "hwid": null
-    },
-    "XYZ456": {
-      "hwid": "123456789"
-    }
+  "ABC123": {
+    "used": true,
+    "hwid": "12345"
+  },
+  "XYZ456": {
+    "used": false,
+    "hwid": null
   }
 }
